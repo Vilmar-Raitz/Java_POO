@@ -1,0 +1,60 @@
+En Java, existem 8 tipos de datos primitivos:
+
+boolean: representa valores verdaderos o falsos.
+char: representa un carácter Unicode de 16 bits.
+byte: representa números enteros con un rango de -128 a 127.
+short: representa números enteros con un rango de -32,768 a 32,767.
+int: representa números enteros con un rango de -2^31 a 2^31-1.
+long: representa números enteros con un rango de -2^63 a 2^63-1.
+float: representa números de punto flotante con precisión simple.
+double: representa números de punto flotante con precisión doble.
+
+
+En Java, los tipos de datos no primitivos son conocidos como tipos de referencia o clases. Los tipos de referencia se utilizan para almacenar direcciones de memoria donde se almacenan los objetos de Java. Algunos ejemplos de tipos de referencia comunes en Java son:
+
+String: representa una cadena de caracteres.
+Array: representa una secuencia ordenada de elementos del mismo tipo.
+Classes: representan objetos que pueden tener atributos y métodos.
+Interfaces: representan un conjunto de métodos que deben ser implementados por una clase.
+Enumerations: representan un conjunto de valores constantes.
+
+Em Java, existem diversos tipos de operadores, incluindo operadores aritméticos, operadores de atribuição, operadores de comparação, operadores lógicos e operadores de bits. Aqui estão alguns exemplos:
+
+Operadores aritméticos:
+
++ (adição)
+- (subtração)
+* (multiplicação)
+/ (divisão)
+% (módulo)
+Operadores de atribuição:
+
+= (atribuição)
++= (adição e atribuição)
+-= (subtração e atribuição)
+*= (multiplicação e atribuição)
+/= (divisão e atribuição)
+%= (módulo e atribuição)
+Operadores de comparação:
+
+== (igualdade)
+!= (diferença)
+> (maior que)
+< (menor que)
+>= (maior ou igual a)
+<= (menor ou igual a)
+Operadores lógicos:
+
+&& (E lógico)
+|| (OU lógico)
+! (Não lógico)
+Operadores de bits:
+
+& (E lógico de bits)
+| (OU lógico de bits)
+^ (OU exclusivo de bits)
+~ (Não lógico de bits)
+<< (deslocamento à esquerda)
+>> (deslocamento à direita)
+>>> (deslocamento à direita com zero)
+

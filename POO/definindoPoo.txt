@@ -1,0 +1,9 @@
+Classe/Tipo -> Uma classe geralmente representa um substantivo, por exemplo: uma pessoa, um lugar, algo que seja “abstrato”. Uma classe é um tipo definido pelo usuário que contém a “receita”, a especificação para os objetos, algo mais ou menos como o tipo inteiro contém o molde para as variáveis declaradas como inteiros.
+
+Uma classe contem Propriedades e Metodos:
+Exemplo de Propriedades:
+Classe Gato possui - Nome, Genero, Idade, peso e cor;
+
+Exemplo de Metodos:
+Classe Gato possui varios metodos como - Comer(comida), Correr(destino), Dormir(horas), Miar();
+
